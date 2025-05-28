@@ -1,0 +1,32 @@
+{
+  "name": "Auto-Caps",
+  "displayName": "Auto-Caps",
+  "description": "Auto capitalizes the first letter of file names",
+  "version": "0.0.1",
+  "publisher": "Rnavsarin",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "contributes": {},
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.100.0",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "20.x",
+    "eslint": "^9.25.1",
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.5.2"
+  }
+}
