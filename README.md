@@ -21,6 +21,6 @@ AutoCaps is a lightweight developer tool that **automatically detects** filename
 Clone the repository or install it globally if you plan to reuse it:
 
 ```bash
-git clone https://github.com/yourusername/autocapitalize.git
-cd autocaps
+git clone https://github.com/ArnavSaroj/Auto-Caps
+cd AUTOCAPS
 npm install
