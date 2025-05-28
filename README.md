@@ -1,6 +1,6 @@
 # AutoCapitalize
 
-AutoCaps is a lightweight developer tool that **automatically detects** filenames that don't start with a capital letter and renames them—ideal for React and Node.js projects where capitalized file names (e.g., `Button.js`, `UserService.js`) are the norm.
+AutoCaps is a lightweight vs code extension that **automatically detects** filenames that don't start with a capital letter and renames them—ideal for React and Node.js projects where capitalized file names (e.g., `Button.js`, `UserService.js`) are the norm.
 
 > 🛠️ Perfect for keeping your component and class filenames consistent—no more manual renaming!
 
